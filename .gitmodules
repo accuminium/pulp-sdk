@@ -1,3 +1,4 @@
 [submodule "pulp-tools"]
 	path = pulp-tools
 	url = https://github.com/accuminium/pulp-tools.git
+	branch = multino
